@@ -1,0 +1,5 @@
+1.Commit frequently with clear, meaningful messages.
+2.Check your status often with git status to avoid surprises.
+3.Stage only what you intend to commit. Use git add <file> for precision.
+4.Push regularly to back up your work and share with others.
+5.Review your changes with git diff before committing.
