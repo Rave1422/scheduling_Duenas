@@ -1,0 +1,7 @@
+1.Working Directory - Where you make changes
+2.git init - initialize the repository
+3.create a new file inside the folder 
+4.git add - Stage changes
+5.git commit - Save changes to your repository
+6.git push - Share changes with others
+7.git status - Check what's going on
